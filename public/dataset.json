@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "entry": "JavaScript Basics",
+    "description": "Learn the fundamentals of JavaScript including variables, data types, operators, and control flow. This foundational course covers everything you need to know to start programming in JavaScript."
+  },
+  {
+    "id": 2,
+    "entry": "React Components",
+    "description": "Master React components, props, state management, and the component lifecycle. Build reusable UI components that power modern web applications."
+  },
+  {
+    "id": 3,
+    "entry": "CSS Styling",
+    "description": "Explore advanced CSS techniques including flexbox, grid, animations, and responsive design. Create beautiful and responsive user interfaces."
+  },
+  {
+    "id": 4,
+    "entry": "REST APIs",
+    "description": "Understand RESTful API design principles, HTTP methods, status codes, and best practices. Build robust APIs that integrate seamlessly with your applications."
+  },
+  {
+    "id": 5,
+    "entry": "Database Design",
+    "description": "Learn relational and non-relational database concepts, normalization, indexing, and query optimization for efficient data management."
+  },
+  {
+    "id": 6,
+    "entry": "Git & Version Control",
+    "description": "Master Git workflow, branching strategies, merging, and collaboration techniques for effective version control in team environments."
+  },
+  {
+    "id": 7,
+    "entry": "Web Security",
+    "description": "Understand common web vulnerabilities like XSS, CSRF, SQL injection, and learn how to implement security best practices in your applications."
+  },
+  {
+    "id": 8,
+    "entry": "Testing Strategies",
+    "description": "Learn unit testing, integration testing, and end-to-end testing approaches using popular frameworks like Jest and React Testing Library."
+  },
+  {
+    "id": 9,
+    "entry": "TypeScript Advanced",
+    "description": "Advanced TypeScript concepts including generics, decorators, modules, and type inference. Build type-safe applications at scale."
+  },
+  {
+    "id": 10,
+    "entry": "Next.js Framework",
+    "description": "Build full-stack applications with Next.js. Learn about server-side rendering, static generation, API routes, and deployment strategies."
+  },
+  {
+    "id": 11,
+    "entry": "Performance Optimization",
+    "description": "Techniques for optimizing web application performance including code splitting, lazy loading, caching, and monitoring tools."
+  },
+  {
+    "id": 12,
+    "entry": "DevOps Fundamentals",
+    "description": "Introduction to DevOps practices, CI/CD pipelines, containerization with Docker, and orchestration with Kubernetes."
+  }
+]
