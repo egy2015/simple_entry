@@ -1,62 +1,122 @@
 [
   {
     "id": 1,
-    "entry": "JavaScript Basics",
-    "description": "Learn the fundamentals of JavaScript including variables, data types, operators, and control flow. This foundational course covers everything you need to know to start programming in JavaScript."
+    "entry": "API",
+    "description": "Sekumpulan aturan yang memungkinkan dua aplikasi atau sistem untuk saling berkomunikasi dan bertukar data secara terstruktur."
   },
   {
     "id": 2,
-    "entry": "React Components",
-    "description": "Master React components, props, state management, and the component lifecycle. Build reusable UI components that power modern web applications."
+    "entry": "Frontend",
+    "description": "Bagian dari aplikasi yang berhubungan langsung dengan pengguna, biasanya berupa tampilan antarmuka di browser atau aplikasi mobile."
   },
   {
     "id": 3,
-    "entry": "CSS Styling",
-    "description": "Explore advanced CSS techniques including flexbox, grid, animations, and responsive design. Create beautiful and responsive user interfaces."
+    "entry": "Backend",
+    "description": "Bagian dari aplikasi yang menangani logika bisnis, pengolahan data, dan komunikasi dengan database di sisi server."
   },
   {
     "id": 4,
-    "entry": "REST APIs",
-    "description": "Understand RESTful API design principles, HTTP methods, status codes, and best practices. Build robust APIs that integrate seamlessly with your applications."
+    "entry": "Database",
+    "description": "Sistem penyimpanan data yang terorganisir sehingga dapat diakses, dikelola, dan diperbarui dengan efisien."
   },
   {
     "id": 5,
-    "entry": "Database Design",
-    "description": "Learn relational and non-relational database concepts, normalization, indexing, and query optimization for efficient data management."
+    "entry": "REST API",
+    "description": "Pendekatan arsitektur API yang menggunakan HTTP method seperti GET, POST, PUT, dan DELETE untuk mengelola resource."
   },
   {
     "id": 6,
-    "entry": "Git & Version Control",
-    "description": "Master Git workflow, branching strategies, merging, and collaboration techniques for effective version control in team environments."
+    "entry": "CRUD",
+    "description": "Empat operasi dasar dalam pengolahan data yaitu Create, Read, Update, dan Delete."
   },
   {
     "id": 7,
-    "entry": "Web Security",
-    "description": "Understand common web vulnerabilities like XSS, CSRF, SQL injection, and learn how to implement security best practices in your applications."
+    "entry": "Authentication",
+    "description": "Proses untuk memverifikasi identitas pengguna sebelum diberikan akses ke dalam sistem."
   },
   {
     "id": 8,
-    "entry": "Testing Strategies",
-    "description": "Learn unit testing, integration testing, and end-to-end testing approaches using popular frameworks like Jest and React Testing Library."
+    "entry": "Authorization",
+    "description": "Proses menentukan hak akses pengguna terhadap fitur atau data setelah berhasil melakukan login."
   },
   {
     "id": 9,
-    "entry": "TypeScript Advanced",
-    "description": "Advanced TypeScript concepts including generics, decorators, modules, and type inference. Build type-safe applications at scale."
+    "entry": "Token",
+    "description": "Kunci digital yang digunakan untuk menjaga sesi pengguna dan mengamankan komunikasi antar sistem."
   },
   {
     "id": 10,
-    "entry": "Next.js Framework",
-    "description": "Build full-stack applications with Next.js. Learn about server-side rendering, static generation, API routes, and deployment strategies."
+    "entry": "ERP",
+    "description": "Sistem terintegrasi yang digunakan perusahaan untuk mengelola proses bisnis seperti keuangan, inventory, HR, dan operasional dalam satu platform."
   },
   {
     "id": 11,
-    "entry": "Performance Optimization",
-    "description": "Techniques for optimizing web application performance including code splitting, lazy loading, caching, and monitoring tools."
+    "entry": "Odoo",
+    "description": "Software ERP open source yang menyediakan berbagai modul seperti akuntansi, penjualan, inventory, dan HR dalam satu sistem terpadu."
   },
   {
     "id": 12,
-    "entry": "DevOps Fundamentals",
-    "description": "Introduction to DevOps practices, CI/CD pipelines, containerization with Docker, and orchestration with Kubernetes."
+    "entry": "SAP",
+    "description": "Software ERP enterprise yang digunakan perusahaan besar untuk mengelola proses bisnis yang kompleks dan berskala besar."
+  },
+  {
+    "id": 13,
+    "entry": "RFW (Request For Work)",
+    "description": "Permintaan pekerjaan atau task yang dibuat dalam sistem untuk ditindaklanjuti oleh tim terkait, biasanya digunakan dalam konteks ERP atau project management."
+  },
+  {
+    "id": 14,
+    "entry": "Module",
+    "description": "Bagian fitur dalam sistem ERP atau aplikasi yang memiliki fungsi spesifik seperti modul inventory, akuntansi, atau HR."
+  },
+  {
+    "id": 15,
+    "entry": "Microservices",
+    "description": "Arsitektur aplikasi yang membagi sistem menjadi layanan-layanan kecil yang berdiri sendiri dan saling berkomunikasi."
+  },
+  {
+    "id": 16,
+    "entry": "Monolith",
+    "description": "Arsitektur aplikasi di mana seluruh fitur dan fungsi berada dalam satu sistem besar dan terintegrasi."
+  },
+  {
+    "id": 17,
+    "entry": "CI/CD",
+    "description": "Proses otomatis untuk build, testing, dan deployment aplikasi agar pengembangan menjadi lebih cepat dan konsisten."
+  },
+  {
+    "id": 18,
+    "entry": "Deployment",
+    "description": "Proses memindahkan aplikasi dari lingkungan development ke server produksi agar bisa digunakan oleh pengguna."
+  },
+  {
+    "id": 19,
+    "entry": "Caching",
+    "description": "Teknik menyimpan data sementara agar proses akses menjadi lebih cepat dan mengurangi beban server."
+  },
+  {
+    "id": 20,
+    "entry": "Queue",
+    "description": "Sistem antrian untuk memproses task secara asynchronous agar performa aplikasi tetap stabil."
+  },
+  {
+    "id": 21,
+    "entry": "Scalability",
+    "description": "Kemampuan sistem untuk menangani peningkatan jumlah pengguna atau data tanpa mengalami penurunan performa."
+  },
+  {
+    "id": 22,
+    "entry": "Refactoring",
+    "description": "Proses memperbaiki struktur kode tanpa mengubah fungsi utamanya agar lebih rapi dan mudah dipelihara."
+  },
+  {
+    "id": 23,
+    "entry": "Legacy System",
+    "description": "Sistem lama yang masih digunakan meskipun teknologinya sudah ketinggalan zaman, biasanya sulit untuk dimodifikasi."
+  },
+  {
+    "id": 24,
+    "entry": "Webhooks",
+    "description": "Mekanisme pengiriman data secara otomatis dari satu sistem ke sistem lain saat terjadi event tertentu."
   }
 ]
