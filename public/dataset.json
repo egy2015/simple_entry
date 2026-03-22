@@ -123,5 +123,10 @@
     "id": 1774201692164,
     "entry": "Flexbox",
     "description": "Model layout satu dimensi yang digunakan untuk mengatur, menyelaraskan, dan mendistribusikan ruang antar elemen dalam kontainer, bahkan ketika ukurannya dinamis."
+  },
+  {
+    "id": 1774201990609,
+    "entry": "MVP",
+    "description": "Minimum Viable Product (MVP) adalah versi awal produk dengan fitur dasar paling esensial yang diluncurkan untuk memvalidasi ide bisnis dan mendapatkan umpan balik pengguna dengan cepat, hemat biaya, dan minim risiko. MVP bertujuan menguji pasar sebelum produk final dikembangkan sepenuhnya, guna menghindari investasi sia-sia."
   }
 ]
