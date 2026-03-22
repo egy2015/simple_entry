@@ -118,5 +118,10 @@
     "id": 24,
     "entry": "Webhooks",
     "description": "Mekanisme pengiriman data secara otomatis dari satu sistem ke sistem lain saat terjadi event tertentu."
+  },
+  {
+    "id": 1774201692164,
+    "entry": "FLexbox",
+    "description": "Model layout satu dimensi yang digunakan untuk mengatur, menyelaraskan, dan mendistribusikan ruang antar elemen dalam kontainer, bahkan ketika ukurannya dinamis."
   }
 ]
