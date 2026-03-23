@@ -27,7 +27,7 @@
   {
     "id": 6,
     "entry": "CRUD",
-    "description": "Empat operasi dasar dalam pengolahan data yaitu Create, Read, Update, dan Delete."
+    "description": "Empat operasi dasar dalam pengolahan data yaitu Create (Menambah Data), Read (Menampilkan Data), Update (Menyunting Data), dan Delete (Menghapus Data)."
   },
   {
     "id": 7,
